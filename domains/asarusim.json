@@ -1,0 +1,10 @@
+{
+  "description": "A documentation site for our open source tool: AsaruSim",
+  "owner": {
+    "username": "asarusim",
+    "email": "alihamraoui4@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://alihamraoui.github.io/AsaruSim/"
+  }
+}
